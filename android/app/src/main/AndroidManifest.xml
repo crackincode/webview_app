@@ -18,7 +18,7 @@
 
     <application
         android:label="Amphibious Indonesia"
-        android:name="id.co.amphibiousindonesia.webview"
+        android:name="${applicationName}"
         android:icon="@mipmap/launcher_icon">
         <activity
             android:name=".MainActivity"
